@@ -1,0 +1,84 @@
+<doctype html> 
+
+    <h1 class="center"> Will Smith Mini-Biography</h1>
+    
+ <body background="Sun.jpg"> 
+    <link rel="stylesheet" type="text/css" href="WillyStyle.css">        
+<br>     
+<br> 
+    <div class="center"><p class="bold-text" >The Fresh Prince Timemline</p>
+<img src="WillSmithTimeline.png" width="1000">
+    </div>
+      
+    
+    <section id="will-smith-grid"> 
+    <div> </div>
+    <div> </div>
+    <div> </div>
+    
+    </section>
+<br>
+<br>
+<br>
+<center class="bold-text" style="border:3px; border-style:groove; border-color: skyblue";> Will Smith's Entertainment Career </center
+
+    
+    
+<table> 
+    <tr class="align-center"> 
+        <br>
+    <center>
+   <a href="WS_TheFreshPrince_Webpage.html">      
+    <th> <p class-="align-left"> The Fresh Prince - Rapper  </p>
+        
+        <br>
+    
+        <div> <img src="Will&jazzy.jpg" width="250px" height="250px" a=""><p>The Fresh Prince of Belair </p> </div>
+    <a/>
+        <br>
+        
+        <a href="WS_TheFreshPrince_Webpage.html"> 
+        
+        <div>  <img src="FreshPrince.jpg" width="250px" height="250px"> <p> Will Smith's Movie Career </p> </div> 
+            
+        </a>
+        <br>
+            
+            <a href="WillSmithInMovies.html"> 
+        <div> <img src="IAMBALD.jpg" width="250px" height="250px"> </div>
+           
+        </a>
+        
+        
+        </th>
+        </center>
+    </tr>
+    
+    <br>
+    <br>
+    <br>
+<footer><p class="center"> Design & architecture by: Trevon Love
+    <br>
+    <br>
+    <img src="SunriseConsultingLogo.jpg" width="150px" height="150px">
+    <br>
+    <br>
+    <br>
+    </p> 
+    
+    </body>
+    <!-- 
+<p class="fancy-text=italic"> Linkedin: </p>https://www.linkedin.com/in/trevon-love-45478a13a/
+    <br>
+    <p> Youtube: </p> https://www.youtube.com/channel/UCsBcLqhUFPmIvqZc0HeCGnQ
+    <br>
+    <p> Twitter: </p> https://twitter.com/TreKekai
+    <br>
+    <p> Instragram:</p> https://www.instagram.com/trethechoosenone/
+    <br>
+    <p> Facebook: </p> https://www.facebook.com/TrevonKekaiLove
+    <br>
+    
+ </p> 
+    </footer>
+-->
